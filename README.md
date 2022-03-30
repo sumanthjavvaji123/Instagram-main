@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/r5BD3KoGCik8Y40Uu3/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://submissions.us-east-1.linodeobjects.com/android_university_kotlin/MZ1VZk-I.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
